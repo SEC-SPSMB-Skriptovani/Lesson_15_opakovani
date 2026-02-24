@@ -36,8 +36,8 @@ soubor `sifra.txt` obsahuje dva sloupce. První je index znaku v `alphabet.txt` 
 2. Následně ve výsledném textu nahraďte všechny `_` za `[mezera]` a výsledek vypište na jeden řádak odstraněním všech `\n` (pomocí příkaz `tr`).
 
 ## Úloha 3 - Odevzdání.
-Veškeré zdrojové kódy nakcomitujde do GITu a uložte do vašeho GitHub repozitáře. 
+Veškeré zdrojové kódy nakcomitujde do GITu a změny uložte do vašeho GitHub repozitáře. 
 Do svého GitHub repozitáře uložte veškeré zdrojové soubory, které jste v průběhu úloh vytvořili, zejména:
-* shell skripty (*.sh)
+* shell skripty (*.sh) s vypracovanou úlohou.
 * vstupní soubory (alphabet.txt, sifra.txt, hlaskovaci_abeceda.txt, …)
-* pomocné soubory vytvořené při řešení (např. step1.txt, step2.txt)
+* pomocné soubory vytvořené při řešení a použité ve Vašich scriptech. (např. `slovo_sorted.txt`, `step1.txt`, `step2.txt`)
