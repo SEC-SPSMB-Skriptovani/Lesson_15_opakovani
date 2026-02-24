@@ -33,4 +33,4 @@ soubor `sifra.txt` obsahuje dva sloupce. První je index znaku v `alphabet.txt` 
 
 ### Postup: 
 1. Nejprve slučte sloupce 
-2. Následně ve výsledném textu nahraďte všechny `_` za `[mezera]` a výsledek vypište na jeden řádak odstraněním všech `\n` (pomocí tr).
+2. Následně ve výsledném textu nahraďte všechny `_` za `[mezera]` a výsledek vypište na jeden řádak odstraněním všech `\n` (pomocí příkaz `tr`).
