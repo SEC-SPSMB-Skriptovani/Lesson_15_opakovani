@@ -24,7 +24,7 @@ echo "Ahoj" | fold -w1 | nl -w1 -s';' > slovo.txt
 ```
 3. Ze slova pomocí tr nahraďte všechna velká písmena za malá.
 4. `slovo.txt` seřadíme podle 2. sloupce a výsledek uložte do souboru `slovo_sorted.txt`
-5. Pomocí příkazu join spojte soubory `slovo_sorted.txt` a `hlaskovaci_abeceta.txt` tak, aby ke každému znaku slova bylo přiřazeno odpovídající slovo z hláskovací abecedy.
+5. Pomocí příkazu join spojte soubory `slovo_sorted.txt` a `hlaskovaci_abeceda.txt` tak, aby ke každému znaku slova bylo přiřazeno odpovídající slovo z hláskovací abecedy.
 6. Výsledek setřiďte podle pořadí (3. sloupce) a následně pomocí `cut` vypište pouze 2. sloupec.
 
 ## Úloha 2 - Kodovaná zpráva.
