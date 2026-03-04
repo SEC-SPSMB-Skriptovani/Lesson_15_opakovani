@@ -1,0 +1,8 @@
+c;6;charlie
+i;5;india
+k;7;kilo
+l;2;lima
+o;3;oscar
+o;8;oscar
+s;1;sierra
+v;4;victor
